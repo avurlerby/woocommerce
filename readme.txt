@@ -1,5 +1,5 @@
 === WooCommerce MoneyGram Gateway ===
-Contributors:  Fola
+Contributors:  Afolabi Omotoso
 Tags: woocommerce gateway, gateway, MoneyGram, payment
 Requires at least: 4.0.0
 Tested up to: 5.2.2
